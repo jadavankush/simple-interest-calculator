@@ -20,3 +20,4 @@ Simple Interest = 100
 
 ## Author
 Jadav Ankush
+Bug fixes and improvements.
